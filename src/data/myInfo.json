@@ -1,0 +1,125 @@
+{
+  "id": "coding-bundle",
+  "subtitle": "I design and build secure, scalable backend systems using PHP and Laravel. I specialize in REST APIs, payment gateway integrations, and performance-optimized web applications that power real-world business platforms.",
+  "badge": "Senior Backend / Full Stack </>",
+  "gradient": "from-emerald-400 via-teal-400 to-cyan-500",
+  "buttonColor": "from-emerald-500 to-teal-500",
+  "image": "/jayaseelan.webp",
+  "experience": [
+    {
+      "title": "Senior PHP & Laravel Developer",
+      "location": "Batechnology · Full-time",
+      "duration": "Mar 2023 - Present",
+      "description": [
+        "Architected and maintained scalable Laravel-based backend systems handling complex business logic, secure authentication, and role-based access control.",
+        "Implemented and optimized REST APIs consumed by web and mobile applications, improving response time and system reliability.",
+        "Integrated multiple payment gateways and third-party services with a focus on security, transaction integrity, and error handling.",
+        "Collaborated closely with frontend teams (React / Blade) to ensure seamless API integration and smooth user experiences.",
+        "Improved application performance and database efficiency through query optimization, caching strategies, and code refactoring."
+      ],
+      "icon": "🛠️"
+    },
+    {
+      "title": "Senior Web Application Developer",
+      "location": "SPINFOTRONICS PRIVATE LIMITED · Full-time",
+      "duration": "Mar 2022 - Apr 2023",
+      "description": [
+        "Developed and maintained web applications using Laravel, CodeIgniter, WordPress, and PrestaShop for international clients.",
+        "Worked on e-commerce platforms, payment integrations, and custom CMS features tailored to business requirements.",
+        "Handled end-to-end project flow including requirement analysis, development, deployment, and post-launch support."
+      ],
+      "icon": "💼"
+    },
+    {
+      "title": "Web Developer",
+      "location": "Yazhi Software Solutions · Full-time",
+      "duration": "Jan 2019 - Feb 2022",
+      "description": [
+        "Built and customized websites and e-commerce solutions using CodeIgniter, WordPress, and PrestaShop.",
+        "Gained strong full-stack fundamentals including backend logic, frontend integration, and database design.",
+        "Worked closely with clients to deliver stable and maintainable solutions."
+      ],
+      "icon": "🚀"
+    }
+  ],
+  "education": [
+    {
+      "location": "Vel Tech HighTech Dr. Rangarajan Dr. Sakunthala Engineering College",
+      "duration": "2011 - 2014",
+      "title": "Bachelor of Computer Applications (BCA)",
+      "icon": "🎓"
+    }
+  ],
+  "techIcons": [
+    {
+      "name": "Laravel",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg",
+      "size": "large",
+      "angle": 0,
+      "tooltipColor": "#FF2D20"
+    },
+    {
+      "name": "PHP",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
+      "size": "large",
+      "angle": 51,
+      "tooltipColor": "#777BB4"
+    },
+    {
+      "name": "MySQL",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      "size": "large",
+      "angle": 102,
+      "tooltipColor": "#4479A1"
+    },
+    {
+      "name": "REST APIs",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+      "size": "large",
+      "angle": 153,
+      "tooltipColor": "#68A063"
+    },
+    {
+      "name": "AWS",
+      "src": "https://unqork.com/wp-content/uploads/2021/05/Amazon_Web_Services-Logo.wine_.png",
+      "size": "large",
+      "angle": 204,
+      "tooltipColor": "#FF9900"
+    },
+    {
+      "name": "Docker",
+      "src": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png",
+      "size": "large",
+      "angle": 255,
+      "tooltipColor": "#2496ED"
+    },
+    {
+      "name": "JavaScript",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+      "size": "small",
+      "angle": 0,
+      "tooltipColor": "#F7DF1E"
+    },
+    {
+      "name": "React (Basic)",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+      "size": "small",
+      "angle": 60,
+      "tooltipColor": "#61DAFB"
+    },
+    {
+      "name": "Tailwind CSS",
+      "src": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg",
+      "size": "small",
+      "angle": 120,
+      "tooltipColor": "#38B2AC"
+    },
+    {
+      "name": "Git",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+      "size": "small",
+      "angle": 180,
+      "tooltipColor": "#F05032"
+    }
+  ]
+}

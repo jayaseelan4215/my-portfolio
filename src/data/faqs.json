@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What technologies do you primarily work with?",
+    "answer": "I am primarily a backend-focused developer specializing in Laravel (PHP) and MySQL. I build secure, scalable APIs and business logic for web platforms. On the frontend, I work with React by customizing existing components, integrating APIs, and adjusting UI behavior rather than building complex React architectures from scratch."
+  },
+  {
+    "question": "What kind of projects have you built?",
+    "answer": "I have built production-ready platforms including an all-in-one social media system with post management, scheduled publishing, user messaging, campaign handling, media uploads, and AI-based insights. I have also developed booking systems, wallet and transaction modules, referral systems, and admin dashboards."
+  },
+  {
+    "question": "Do you have experience with React?",
+    "answer": "Yes, I work with React at an integration and customization level. I can modify existing React components, connect APIs, manage props and state, adjust UI logic, and fix bugs. My strength lies in backend development, while React is used mainly to support and extend frontend functionality."
+  },
+  {
+    "question": "What is your main strength as a developer?",
+    "answer": "My core strength is backend development. I design APIs, database structures, authentication systems, and business workflows using Laravel. I focus on data integrity, performance, and security while ensuring smooth integration with frontend applications."
+  },
+  {
+    "question": "How do you handle security in your applications?",
+    "answer": "I implement JWT authentication, Bcrypt password hashing, role-based access control, API validation, and middleware protection. I ensure sensitive data is securely stored and APIs are protected against unauthorized access."
+  },
+  {
+    "question": "Have you worked on social media or messaging platforms?",
+    "answer": "Yes. I have worked on social media platforms that include user posting, scheduled content, real-time-style messaging, campaign management, media uploads, and performance tracking. These systems are built with scalable backend architecture to handle growth."
+  },
+  {
+    "question": "How do you manage AI features in your projects?",
+    "answer": "I integrate AI features mainly for insights and analytics, such as content performance analysis, engagement tracking, and reporting. The AI layer is integrated through APIs, while the core logic and data handling are managed on the backend."
+  },
+  {
+    "question": "Are your applications mobile responsive?",
+    "answer": "Yes. While I am backend-focused, I ensure frontend layouts are responsive by customizing existing UI components, working with CSS frameworks, and testing across devices."
+  },
+  {
+    "question": "How do you ensure code quality and maintainability?",
+    "answer": "I follow structured backend architecture, clean database design, reusable services, and consistent API response formats. I also focus on readable code and proper validation to ensure long-term maintainability."
+  },
+  {
+    "question": "What are you currently focusing on improving?",
+    "answer": "I am currently strengthening large-scale backend architecture, optimizing APIs for performance, improving AI-based analytics integration, and becoming more confident in frontend customization workflows using React."
+  }
+]

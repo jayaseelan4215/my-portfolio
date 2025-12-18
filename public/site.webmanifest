@@ -1,0 +1,22 @@
+{
+  "name": "Jayaseelan P | Senior PHP & Laravel Backend Developer",
+  "short_name": "Jayaseelan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#F28C26",
+  "description": "Portfolio of Jayaseelan P — Senior PHP & Laravel Backend Developer specializing in REST APIs, payment gateway integrations, secure authentication systems, and high-performance web applications.",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
