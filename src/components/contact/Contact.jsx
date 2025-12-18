@@ -71,7 +71,7 @@ const ContactSection = () => {
               {
                 icon: "MapPin",
                 title: "Location",
-                value: "Sector 128, Noida, Uttar Pradesh",
+                value: "Chennai",
               },
             ].map((item, i) => (
               <motion.div
